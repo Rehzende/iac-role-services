@@ -1,3 +1,3 @@
 ---
 - name: Run a script with arguments (free form)
-  ansible.builtin.script: ../utils/Linux_Insight_Agent/agent_install.sh
+  ansible.builtin.script: ./utils/logentries/agent_install.sh
